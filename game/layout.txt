@@ -1,0 +1,22 @@
+4/27/22
+
+Basic Text Based Dunegon Crawler using OOP
+------------------------------------------
+
+World: grid layout, different structures, random maze, spawn locations
+
+Player: Inventory, Logs, HP, Stats
+
+Other Mechanics: Text monster encounters, random monster spawns,
+monster generator, puzzle generator?
+
+------------------------------------------
+
+The game will be a maze dungeon crawler, the goal is to complete the maze in as few turns as possible, with as much health as possible.
+
+
+DETAILS:
+
+World:
+
+First thing, create a navigable world. 
