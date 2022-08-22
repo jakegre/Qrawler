@@ -6,8 +6,7 @@ def operGet():
     return oper
 def menu():
     print("************************\nMENU, select an operation:")
-    op = operGet()
-    operGet = input("[T]est\n[P]lay\n[O]ptions\n[Q]uit\n > ")
+    op = input("[T]est\n[P]lay\n[O]ptions\n[Q]uit\n > ")
     if op in ["t","T"]:
         newNPC = NPCgen()
         operGet = input("[T]est\n[P]lay\n[O]ptions\n[Q]uit\n > ")
